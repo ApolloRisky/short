@@ -8,7 +8,7 @@ import (
 	"github.com/byliuyang/app/fw"
 )
 
-var _ fw.Scalar = &Time{}
+var _ fw.GraphQLScalar = &Time{}
 
 // Time maps GraphQL Time scalar to time.Time.
 type Time struct {

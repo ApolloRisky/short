@@ -9,7 +9,14 @@ github.com/byliuyang/app v0.0.0-20191024060854-d8cf27126b93 h1:qktuC2Yzrj191H0WV
 github.com/byliuyang/app v0.0.0-20191024060854-d8cf27126b93/go.mod h1:OJ0/WF8zHkTL3Aa9Jdx9/OHacCCSV0T7TieOuHsmmDY=
 github.com/byliuyang/app v0.0.0-20191223051710-d5d4102e2de8 h1:gJEpZw0h2+0ZbTmFLfrY4TlGL1e+pNofUPUDDA5EkTE=
 github.com/byliuyang/app v0.0.0-20191223051710-d5d4102e2de8/go.mod h1:OJ0/WF8zHkTL3Aa9Jdx9/OHacCCSV0T7TieOuHsmmDY=
+github.com/byliuyang/app v0.0.0-20191231052127-cf113d9393c7 h1:RK/tUHXfr4rfXbmxMIQrnMqIPaktTX1x51NePw2h7yw=
+github.com/byliuyang/app v0.0.0-20191231052127-cf113d9393c7/go.mod h1:OJ0/WF8zHkTL3Aa9Jdx9/OHacCCSV0T7TieOuHsmmDY=
+github.com/byliuyang/app v0.0.0-20191231060533-28fbe3c97806 h1:YdhSOBvJAHodbGRnMFl1NiZKdVd5OX5VcfNkl7Jm8Fs=
+github.com/byliuyang/app v0.0.0-20191231060533-28fbe3c97806/go.mod h1:OJ0/WF8zHkTL3Aa9Jdx9/OHacCCSV0T7TieOuHsmmDY=
+github.com/byliuyang/eventbus v0.0.0-20190905025612-ee6985030d5b h1:CsSf45Xu8cy75ItXfN6WSke/0GTQeiOxDHRsABtOYzw=
 github.com/byliuyang/eventbus v0.0.0-20190905025612-ee6985030d5b/go.mod h1:r0/JGVFQObWPCDGD5J+UU9W8eqnnEzhfFUtxsfLAhLg=
+github.com/byliuyang/eventbus v0.0.0-20191022071918-8df37851f5b0 h1:4PTDJxgDZhMcYhO0WKNpSvmR2/+mbUNHzVY2fiNqZQs=
+github.com/byliuyang/eventbus v0.0.0-20191022071918-8df37851f5b0/go.mod h1:r0/JGVFQObWPCDGD5J+UU9W8eqnnEzhfFUtxsfLAhLg=
 github.com/byliuyang/kgs v0.0.0-20191213024321-24d594534ed3 h1:jnSM75+VxZ3FoaBPebW1U+WdqtYgd727cl7EKmxzXR4=
 github.com/byliuyang/kgs v0.0.0-20191213024321-24d594534ed3/go.mod h1:b03L3Nl2v083BbOLImKNkfsfW4v6aiZqHrxUsnWXGgw=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=

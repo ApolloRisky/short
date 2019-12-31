@@ -9,7 +9,7 @@ import (
 	"github.com/byliuyang/app/fw"
 )
 
-var _ fw.GraphQlAPI = (*Short)(nil)
+var _ fw.GraphQLAPI = (*Short)(nil)
 
 // Short represents GraphQL API config
 type Short struct {
@@ -22,7 +22,7 @@ func (t Short) GetSchema() string {
 }
 
 // GetResolver retrieves GraphQL resolver
-func (t Short) GetResolver() interface{} {
+func (t Short) GetResolver() fw.Resolver {
 	return t.resolver
 }
 
